@@ -21,9 +21,10 @@ El proyecto es viable porque es factible solicitarle a cualquier inteligencia ar
 
 ### Ejemplo 1:
 Estructura: Necesito un ejercicio para resolver. La materia es [espacio curricular], el tema es [tema]. La dificultad es [dificultad].
-Prompt de ejemplo: Necesito un ejercicio para resolver. La materia es analisis funcional. El tema es relevamiento de requerimientos funcionales y no funcionales. La dificultad es basica
-Resultado esperado:
 
+Prompt de ejemplo: Necesito un ejercicio para resolver. La materia es analisis funcional. El tema es relevamiento de requerimientos funcionales y no funcionales. La dificultad es basica
+
+Resultado esperado:
 Ejercicio: Identificación de Requerimientos
 Imagina que estás realizando el análisis funcional para una aplicación de gestión de tareas para estudiantes llamada "Mi Estudio". La aplicación permitirá a los estudiantes organizar sus asignaciones, establecer fechas de entrega, y recibir recordatorios.
 
