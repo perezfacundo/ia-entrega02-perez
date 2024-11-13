@@ -30,10 +30,10 @@ Imagina que estás realizando el análisis funcional para una aplicación de ges
 
 Identifica y clasifica los siguientes requerimientos en funcionales o no funcionales:
 
-a) La aplicación debe permitir a los usuarios crear, editar y eliminar tareas.
-b) La aplicación debe enviar recordatorios a los usuarios un día antes de la fecha de entrega de cada tarea.
-c) La interfaz debe ser intuitiva y fácil de usar.
-d) La aplicación debe funcionar sin errores en dispositivos Android e iOS.
-e) Los datos de los usuarios deben estar encriptados.
-f) La aplicación debe ser capaz de manejar hasta 10,000 usuarios simultáneamente.
+- La aplicación debe permitir a los usuarios crear, editar y eliminar tareas.
+- La aplicación debe enviar recordatorios a los usuarios un día antes de la fecha de entrega de cada tarea.
+- La interfaz debe ser intuitiva y fácil de usar.
+- La aplicación debe funcionar sin errores en dispositivos Android e iOS.
+- Los datos de los usuarios deben estar encriptados.
+- La aplicación debe ser capaz de manejar hasta 10,000 usuarios simultáneamente.
 Redacta tres nuevos requerimientos funcionales y tres no funcionales para mejorar la aplicación.
