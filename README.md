@@ -23,7 +23,7 @@ El proyecto es viable porque es factible solicitarle a cualquier inteligencia ar
 - Estructura: Necesito un ejercicio para resolver. La materia es [espacio curricular], el tema es [tema]. La dificultad es [dificultad].
 - Prompt de ejemplo: Necesito un ejercicio para resolver. La materia es analisis funcional. El tema es relevamiento de requerimientos funcionales y no funcionales. La dificultad es basica.
 - Resultado esperado:
-- 
+  
 ![image](https://github.com/user-attachments/assets/fc24aa82-b3fc-43f5-aa6d-7e59d62b9971)
 
 
@@ -31,7 +31,7 @@ El proyecto es viable porque es factible solicitarle a cualquier inteligencia ar
 - Estructura: Necesito un ejercicio para resolver. La materia es [espacio curricular], el tema es [tema]. La dificultad es [dificultad].
 - Prompt de ejemplo: Necesito un ejercicio para resolver. La materia es Analisis Matematico, el tema derivadas. La dificultad es basica.
 - Resultado esperado:
-- 
+  
 ![image](https://github.com/user-attachments/assets/3f3d9fb5-5e72-4b0d-a811-06032ea6cc5f)
 
 
