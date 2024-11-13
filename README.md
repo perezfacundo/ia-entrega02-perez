@@ -34,4 +34,17 @@ El proyecto es viable porque es factible solicitarle a cualquier inteligencia ar
   
 ![image](https://github.com/user-attachments/assets/3f3d9fb5-5e72-4b0d-a811-06032ea6cc5f)
 
+### Ejemplo 3:
+- Estructura: Necesito un ejercicio para resolver. La materia es [espacio curricular], el tema es [tema]. La dificultad es [dificultad].
+- Prompt de ejemplo: Necesito un ejercicio para resolver. La materia es Electronica, el tema transistores. La dificultad es media
+- Resultado esperado: 
+
+![image](https://github.com/user-attachments/assets/ab6cf469-aabd-4256-92a0-5026611830de)
+
+### Ejemplo 4:
+- Estructura: Necesito un ejercicio para resolver. La materia es [espacio curricular], el tema es [tema]. La dificultad es [dificultad].
+- Prompt de ejemplo: Necesito un ejercicio para resolver. La materia es Estructuras de datos, el tema es grafos. La dificultad es avanzada.
+- Resultado esperado:
+
+![image](https://github.com/user-attachments/assets/e894f244-f2c3-4fa0-a051-5ffb8c248101)
 
