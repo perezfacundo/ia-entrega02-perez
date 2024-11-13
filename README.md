@@ -30,6 +30,7 @@ Resultado esperado:
 ### Ejemplo 2:
 Estructura: Necesito un ejercicio para resolver. La materia es [espacio curricular], el tema es [tema]. La dificultad es [dificultad].
 Prompt de ejemplo: Necesito un ejercicio para resolver. La materia es Analisis Matematico, el tema derivadas. La dificultad es basica.
+Resultado esperado:
 ![image](https://github.com/user-attachments/assets/3f3d9fb5-5e72-4b0d-a811-06032ea6cc5f)
 
 
