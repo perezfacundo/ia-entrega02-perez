@@ -14,3 +14,5 @@ El resultado podría ser tanto una consigna redactada como una imagen.
 ## Justificación de la viabilidad del proyecto
 
 El proyecto es viable porque es factible solicitarle a cualquier inteligencia artificial que desarrolle un texto o imagen, dado que es la forma en la que trabajan según sea.
+
+<hr />
